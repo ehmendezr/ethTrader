@@ -1,0 +1,2 @@
+# ethTrader
+Alpha ethTraderBitso
